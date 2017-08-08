@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HarmoniaSansProCyrRegular';
+    src: url('../fonts/HarmoniaSansProCyrRegular.eot');
+    src: url('../fonts/HarmoniaSansProCyrRegular.eot') format('embedded-opentype'),
+         url('../fonts/HarmoniaSansProCyrRegular.woff2') format('woff2'),
+         url('../fonts/HarmoniaSansProCyrRegular.woff') format('woff'),
+         url('../fonts/HarmoniaSansProCyrRegular.ttf') format('truetype'),
+         url('../fonts/HarmoniaSansProCyrRegular.svg#HarmoniaSansProCyrRegular') format('svg');
+}
